@@ -1,4 +1,4 @@
-List of available online exams to prepare AWS Developer - Associate certification
+List of available online exams to prepare AWS Developer - Associate certification (DVA-C02)
 
 **1.- AWS Certified Developer Associate Practice Exams DVA-C02 =>
 https://adidas-itlearning.udemy.com/course/aws-developer-associate-practice-exams/**
