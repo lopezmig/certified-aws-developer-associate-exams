@@ -68,7 +68,7 @@ https://adidas-itlearning.udemy.com/course/aws-developer-associate-practice-exam
   
   Result:
 
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 **5.- AWS Certified Developer Associate Exam Training DVA-C02 => https://adidas-itlearning.udemy.com/course/aws-certified-developer-associate-exam-training**
 
   Exam 1: https://adidas-itlearning.udemy.com/course/aws-certified-developer-associate-exam-training/learn/lecture/35900716#overview
