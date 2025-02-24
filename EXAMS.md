@@ -5,7 +5,7 @@ https://adidas-itlearning.udemy.com/course/aws-developer-associate-practice-exam
 
   Exam 1: https://adidas-itlearning.udemy.com/course/aws-developer-associate-practice-exams/learn/quiz/4852734#overview
   
-  Result:
+  Result: Attempt 1 - 78% correct (51/65) - 1 hour 49 minutes
   
   Exam 2: https://adidas-itlearning.udemy.com/course/aws-developer-associate-practice-exams/learn/quiz/4852736#overview
   
